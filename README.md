@@ -2,4 +2,18 @@
 
 Front end design for a adventure tour company.
 
-Stack: HTML, CSS, Sass
+## Live Link
+
+https://scotrenz.github.io/Adventours/
+
+## Built With
+
+HTML, CSS, Sass
+
+## Installation
+
+Npm install, Compile Sass
+
+## Authors
+
+Scot Renz
